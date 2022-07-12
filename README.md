@@ -1,19 +1,11 @@
 # Hi there 👋 I'm Davide!
 
 <!--Introduction -->
-I'm a **Front end Developer**, looking forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
-<br>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy!</b> :)</em>
-
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davide-pass/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davidepsaros@gmail.com)
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-<!-- About -->
-
+I love :heart: giving life to User Interfaces and i desire to become a professional **Frontend Developer**.
+I like to: 
+- Absorb knowledge 🧠
+- Gain experience by practicing :muscle:
+- Collaborate and learning from other people! 🤝 
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -27,6 +19,29 @@ I'm a **Front end Developer**, looking forward to absorb knowledge🧠,gain expe
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+<!-- Hobbies -->
+## Hobbies:
+- Reading :books:
+- Cooking :spaghetti:
+- Weight lifting and Calisthenics 🏋️
+
+
+<!-- Contact -->
+## Contacts:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you want to say Hi, I'll be happy!</b> :relaxed:</em>
+
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davide-pass/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davidepsaros@gmail.com)
+
+
+<!-- About -->
+
+
+
 
 
 
