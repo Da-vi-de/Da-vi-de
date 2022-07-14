@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Davide!
 
 <!--Introduction -->
-I love :heart: giving life to User Interfaces and i desire to become a professional **Frontend Developer**.
+I love :heart: giving life to User Interfaces and i desire to become a professional **Front-End Developer**.
 I like to: 
 - Absorb knowledge 🧠
 - Gain experience by practicing :muscle:
