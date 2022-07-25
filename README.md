@@ -31,8 +31,8 @@ I like to:
 
 <!-- Current Project -->
 ## Current Project:
-###Property Seeker Real Estate App 
-A Web Application for renting and/or buying properties :city_sunrise:
+### Property Seeker Real Estate App 
+A Web Application for renting and/or buying properties :city_sunrise: <br>
 https://github.com/Da-vi-de/Property-Seeker-real-estate-app
 
 <!-- Contact -->
