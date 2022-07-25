@@ -29,6 +29,11 @@ I like to:
 - Weight lifting and Calisthenics 🏋️
 
 
+<!-- Current Project -->
+## Current Project:
+[Property Seeker Real Estate App (https://github.com/Da-vi-de/Property-Seeker-real-estate-app)]
+A Web Application for renting and/or buying properties :city_sunrise:
+
 <!-- Contact -->
 ## Contacts:
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you want to say Hi, I'll be happy!</b> :relaxed:</em>
