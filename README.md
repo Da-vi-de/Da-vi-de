@@ -31,7 +31,7 @@ I like to:
 
 <!-- Current Project -->
 ## Current Project:
-[Property Seeker Real Estate App (https://github.com/Da-vi-de/Property-Seeker-real-estate-app)]
+Property Seeker Real Estate App https://github.com/Da-vi-de/Property-Seeker-real-estate-app
 A Web Application for renting and/or buying properties :city_sunrise:
 
 <!-- Contact -->
