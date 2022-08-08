@@ -44,13 +44,9 @@ https://github.com/Da-vi-de/Property-Seeker-real-estate-app
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davidepsaros@gmail.com)
 
 
-<!-- About -->
-
-
-
-
-
-
+<!-- Most Used Languages -->
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-vi-de)](https://github.com/Da-vi-de/github-readme-stats)
 
 ## 💻 Projects
 <p align="center">
