@@ -32,7 +32,7 @@ I like to:
 <!-- Current Project -->
 ## Current Project:
 ### Property Seeker (Real Estate App) 
-A Web Application for buying properties :city_sunrise: <br>
+A Website for buying properties :city_sunrise: <br>
 https://github.com/Da-vi-de/Property-Seeker-real-estate-app 
 
 <!-- Contact -->
