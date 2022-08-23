@@ -32,8 +32,8 @@ I like to:
 <!-- Current Project -->
 ## Current Project:
 ### Property Seeker (Real Estate App) 
-A Website for buying properties :city_sunrise: <br>
-https://github.com/Da-vi-de/Property-Seeker-real-estate-app 
+One of the most famous and played game... 🪨 :scroll: |  :scissors:<br>
+https://github.com/Da-vi-de/rock-paper-scissors/tree/development
 
 <!-- Contact -->
 ## Contacts:
