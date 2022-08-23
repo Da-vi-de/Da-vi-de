@@ -32,7 +32,7 @@ I like to:
 <!-- Current Project -->
 ## Current Project:
 ### Property Seeker (Real Estate App) 
-One of the most famous and played game... 🪨 :scroll: |  :scissors:<br>
+One of the most famous and played game... 🪨 | :scroll: |  :scissors:<br>
 https://github.com/Da-vi-de/rock-paper-scissors/tree/development
 
 <!-- Contact -->
