@@ -31,9 +31,8 @@ I like to:
 
 <!-- Current Project -->
 ## Current Project:
-### Rock | Paper | Scissors game. 
-One of the most famous and played game... 🪨 | :scroll: |  :scissors:<br>
-https://github.com/Da-vi-de/rock-paper-scissors/tree/main
+### Frontend Mentor guru level challenge | Designo multipage website. 
+https://github.com/Da-vi-de/designo-multipage/tree/development
 
 <!-- Contact -->
 ## Contacts:
