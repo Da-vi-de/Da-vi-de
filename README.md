@@ -5,7 +5,7 @@ I love :heart: giving life to User Interfaces.
 I like to: 
 - Absorb knowledge 🧠
 - Gain experience by practicing :muscle:
-- Collaborate and learning from other people! 🤝 
+- Willing to collaborate and learning from other people! 🤝 
 
 ### :hammer_and_wrench: Languages and Tools :
 
