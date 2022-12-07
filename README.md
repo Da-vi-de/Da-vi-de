@@ -29,10 +29,16 @@ I like to:
 - Weight lifting and Calisthenics 🏋️
 
 
-<!-- Current Project -->
-## Current Project:
+<!-- Last Completed Project -->
+## Last Completed Project:
 ### Frontend Mentor guru level challenge | Designo multipage website. 
 https://github.com/Da-vi-de/designo-multipage/tree/development
+
+<!-- Currently involved in -->
+## Currently involved in:
+Practicing Typescript in React and Next.js | Working more with data from APIs |
+A New Project is coming soon...
+
 
 <!-- Contact -->
 ## Contacts:
