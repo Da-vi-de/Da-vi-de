@@ -19,6 +19,7 @@ I like to:
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
 <img src="https://skills.thijs.gg/icons?i=nextjs"  title="nextjs" alt="Nextjs" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
+<img src="https://skills.thijs.gg/icons?i=vscode"  title="vscode" alt="Visual Studio Code" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
 
