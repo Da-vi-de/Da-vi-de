@@ -21,6 +21,7 @@ I like to:
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
 <img src="https://skills.thijs.gg/icons?i=vscode"  title="vscode" alt="Visual Studio Code" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+<img src="https://skills.thijs.gg/icons?i=vercel"  title="vercel" alt="Vercel" width="60" height="60"/>&nbsp;
 </div>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
