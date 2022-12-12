@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Davide, Front-End Developer!
 
 <!--Introduction -->
-I love :heart: giving life to User Interfaces.
+I love :heart: programming Web User Interfaces.
 I like to: 
 - Absorb knowledge 🧠
 - Gain experience by practicing :muscle:
