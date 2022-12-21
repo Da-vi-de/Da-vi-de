@@ -40,7 +40,7 @@ https://github.com/Da-vi-de/designo-multipage/tree/development
 
 <!-- Currently involved in -->
 ## Currently involved in:
-Practicing Typescript in React and Next.js | Working with APIs |
+Practicing Typescript in React and Next.js |
 A New Project is coming soon...
 
 
