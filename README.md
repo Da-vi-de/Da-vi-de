@@ -38,10 +38,10 @@ I like to:
 ### Frontend Mentor guru level challenge | Designo multipage website. 
 https://github.com/Da-vi-de/designo-multipage/tree/development
 
-<!-- Currently involved in -->
+<!-- Currently involved in 
 ## Currently involved in:
 Practicing Typescript in React and Next.js |
-A New Project is coming soon...
+A New Project is coming soon... -->
 
 
 <!-- Contact -->
